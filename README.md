@@ -1,5 +1,3 @@
-Creating a README file for your GitHub project that explains how to use the `instaloader` module to store posts, reels, and videos can help users understand and use your project effectively. Below is a sample README.md file for a GitHub repository:
-
 
 # Instaloader Usage Guide
 
